@@ -33,7 +33,7 @@ dependencies {
 	implementation 'org.json:json:20230227'
 
 	// Security
-//	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
 	implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity6'
 
 	// Web
